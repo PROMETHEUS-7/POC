@@ -1,4 +1,3 @@
 user_id,name,username,password,email,designation,role,strike
 1,Hari,CS001,test13,hari@gvc.com,student,None,None
-2,Sai,CS002,asdfghjk,sai@gmail.com,teacher,None,None
-3,Nayana,CS003,zxcvbnm,nayana@gmail.com,staff,None,None
+2,Sai,CS002,asdfghjk,sai@gmail.com,teacher,None,Nonegit a
